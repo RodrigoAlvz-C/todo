@@ -26,3 +26,8 @@ body{
 #main{
   background-color: rgb(255, 255, 255);
 }
+
+.current-cell{
+  background-color: aqua;
+  color: black;
+}
